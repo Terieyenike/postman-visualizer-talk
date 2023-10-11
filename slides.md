@@ -95,10 +95,14 @@ transition: fade-out
 
 # Reasons why you need to learn how to visualise data
 
+
 <ul style='margin-top: 2rem'>
   <li>Present the insights to other people</li>
   <li>Hard to look at the raw data in JSON objects from the server, and understand it with some frontend code</li>
 </ul>
+
+<img v-click src='https://github-production-user-asset-6210df.s3.amazonaws.com/25850598/274324448-a9c38291-9e93-4f00-b718-9e28b406323e.jpg' class='object-contain w-3/4' />
+
 
 <style>
 h1 {
