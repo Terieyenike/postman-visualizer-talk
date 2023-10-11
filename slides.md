@@ -161,7 +161,7 @@ In our string template, we use the handlebars templating engine syntax with the 
 
 # Handlebars
 
-Template Engines that lets you inject its syntax within the html template using the curly braces `{{}}` that is its expressions
+Template Engines that lets you inject its syntax within the html template using the curly braces `{{}}` that is its expressions.
 
 ```js {2|5-6|8-9|13-15|17|21}
 <div class='mt-5 grid gap-10 grid-cols-1 md:grid-cols-3'>
