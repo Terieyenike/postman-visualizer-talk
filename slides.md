@@ -122,6 +122,7 @@ Sometimes, you want to present the data in a visual way for better understanding
 
 <Tweet id='1709885519755112632' scale='0.70' />
 
+<!-- Postman Visualizer supports more than just creating charts and graphs from data. It can also be used to test and create micro web apps, serving as another way Postman empowers you from the beginning to the end of your SDLC. -->
 
 ---
 layout: default
@@ -154,7 +155,7 @@ The major components in Postman Visualizer are:
 <!--
 Postman Visualizer is built to help you act on data and not just look at it. Postman Visualizer is your API visualization companion.
 
-In our string template, we use the handlebars templating engine syntax with the two curly braces to dynamically render the data from the API wrapped around the handlebars expression.
+The `pm` object provides functionality for testing your request and response data. • The response JSON, which you can use to drill down into the properties received:
 -->
 
 ---
@@ -195,6 +196,8 @@ h1 {
   margin-bottom: 0.5em
 }
 </style>
+
+<!-- In our string template, we use handlebars templating engine syntax to dynamically render the data from the API wrapped with its expression around two curly braces. -->
 
 ---
 
